@@ -70,3 +70,4 @@ The schema is the authoritative reference for database structure. Two models: `U
 - State management is React Context only (no Redux/Zustand)
 - Tests use Vitest + jsdom + React Testing Library; test files sit next to source in `__tests__/` subdirectories
 - Use comments sparingly — only comment complex code
+- nothing
